@@ -8,8 +8,7 @@ for i in math:
 print(winner,max)
 math.close()
 math = open('mat_dv.txt','r')
-max_al = 0
-max_ge = 0
+
 winners = {'albebra':[0,''],'geometria':[0,'']}
 for i in math:
 
