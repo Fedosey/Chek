@@ -21,6 +21,6 @@ for i in math:
         winners["geometria"][1] = (" ".join(i.split()[0:3]))
 print(winners["albebra"][0],winners["albebra"][1])
 print(winners["geometria"][0],winners["geometria"][1])
-
+math.close()
 
 
